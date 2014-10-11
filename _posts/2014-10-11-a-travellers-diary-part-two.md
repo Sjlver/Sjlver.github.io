@@ -3,6 +3,10 @@ layout:     post
 title:      "A traveller's diary, part two"
 date:       2014-10-11 16:15:00
 categories: travel
+excerpt: >
+    The journey continues. My goal is the mountains. I have three days left,
+    120 dollars in my pocket, and a backpack. This is what freedom must feel
+    like.
 ---
 
 The next two-and-a-half days are spent at OSDI. The top of the crop is there,
