@@ -1,0 +1,12 @@
+# Site settings
+title: Purple pages on the web
+email: ltlygwayh@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Jonas Wagner's travels, research, and more.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.purpureus.net" # the base hostname & protocol for your site
+github_username:  Sjlver
+
+# Build settings
+markdown: kramdown
+exclude: ['vendor/']
