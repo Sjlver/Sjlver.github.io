@@ -10,7 +10,7 @@ orange. The weather service has announced rain for today, but at least for now,
 nothing like it is to be seen.
 
 I reach the main road and head north. A sign tells me I'm at mile 35. Ward is
-eight miles from here, [...] [FIXME] is twenty, and to the national park it's
+eight miles from here, Allenspark is twenty, and to the national park it's
 about 45 miles. I decide to hitchhike for real this time, with thumb out and
 everything. I wonder if it will work.
 
@@ -57,8 +57,8 @@ school.
 Lunch break is on a small rock next to the road, not far from one of these
 little streams that crisscross the Colorado highlands. I try the
 coconut-peanut-butter that I bought at the Co-op, and some delicious dried
-apples. Before I continue, I examine my feet and put a preventive Pflaster
-[FIXME] on a small wound.
+apples. Before I continue, I examine my feet and put a preventive band-aid
+on a small wound.
 
 This time, I don't have to walk long before a car stops. I immediately like and
 trust the driver, a man in his sixties. As we drive on, he tells me his name's
