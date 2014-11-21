@@ -2,6 +2,9 @@
 layout:     post
 title:      "Web Technologies for Your CV"
 categories: technology
+excerpt: >
+    I really like web technologies. But... would they be appropriate for
+    writing a CV?
 ---
 
 Faced with the need to update my CV, I pondered the possible toolchains:
