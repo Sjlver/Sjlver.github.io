@@ -1,77 +1,77 @@
 ---
 layout:     post
-title:      "Web Technologies for Your CV"
+title:      "Exporting notes from Evernote and OneNote"
 categories: technology
 excerpt: >
-    I really like web technologies. But... would they be appropriate for
-    writing a CV?
+    Evernote and OneNote are useful. But, can you get your data out of them if
+    you have to? This post shows how.
 ---
 
-Faced with the need to update my CV, I pondered the possible toolchains:
+Evernote and OneNote are useful. But, can you get your data out of them if
+you have to? Consider the scenario where you would like to store your notes in a
+set of text files. How would you get your existing notes out of the cloud and
+into these files?
 
-- My previous CV was written using *LibreOffice.* This worked fairly well, even
-  though it lacked coolness and precise control over the layout.
-- Many colleagues use *LaTeX* (shudder).
-- My flatmate suggested that I use a *plain text file.*
+## Syncing Evernote
 
-I found the last option intriguing. I really like plain-text files, especially
-in combination with light-weight markup such as
-[MarkDown][md]. This is the technology behind the blog
-you're reading; it works very well for web publishing. Tool support for editing,
-version control etc. is great... but would it be appropriate for writing a CV?
+Evernote is supported by an online service called [CloudHQ][cloudhq]. This
+service promises to synchronize data across a number of cloud providers. For
+example, it can synchronize Evernote notes to a GDrive folder, which is what
+we're going to use.
 
-It turns out that today's web developers have great control over how websites
-are printed. CSS properties can control font families and weights, page margins
-and breaks, and even typographic features like columns, soft hyphens, or orphan
-lines. After a bit of reading on this, I assembled my toolchain:
+Once you've logged into CloudHQ, it lets you set up *synchronization pairs*. For
+my pair, I choose Google Drive as the first service. CloudHQ prompts me to
+log in to my Google account and authorize the access. Then, it allows me to
+select a folder to use for the synchronization.
 
-1. `git init .` is a standard command to execute at the beginning of a new
-   project.
+The second end of the synchronization pair is Evernote. Again, CloudHQ prompts
+me to log in to Evernote and authorize the access. I can also select which
+notebooks to sync.
 
-2. Using [LibreOffice][libreoffice] and [Pandoc][pandoc], I converted my old CV
-   from `.odf` → `.docx` → `.md`. This was a great starting point.
+Once the endpoints are set up, I can choose a number of options. The most
+important ones specify the export format. I can choose between a Google doc, a
+Word or LibreOffice doc, a plain text file, PDF, HTML, or Evernote's ENEX
+format. Documents and plain text files can be synced back to Evernote, whereas
+PDF or HTML are export-only formats.
 
-3. [Vim][vim] is my tool of choice for editing the MarkDown file.
+## Syncing OneNote
 
-4. After I was done updating the CV, I converted it to HTML using Pandoc. The
-   tool allows its users to control every aspect of the document template being
-   used, and also contains a lot of options to make the appearance nicer (e.g.,
-   turning apostrophes into typographic quotes).
+The process is a bit more complex for OneNote, because it is not (yet) supported
+by CloudHQ. However, OneNote does have an experimental REST API that lets you
+access the notes.
 
-5. The result looked basic, but all the content was there. Time for some
-   styling! I started by adding [normalize.css][normalize], and then adjusted
-   the style sheet until the document satisfied my gusto.
+For non-technical readers: a REST API is a wonderful thing. It is a way to
+access data that is easy for programs to navigate. In the case of OneNote, the
+API provides a way to fetch a list of pages, and to get the title, notebook name,
+section name, and content for every page.
 
-   Most of the styling was done with the HTML document open in [Chrome][chrome].
-   For those features that were related to document layout, I used the print
-   preview to see the effect of the changes.
+I've written [a small program][onenote_export] that accesses the API, downloads
+all the notes, and stores them in a folder hierarchy that mimics your notebooks
+and sections.
 
-   It's noteworthy that the process is much more WYSIWYG than one might think,
-   because CSS properties can be adjusted dynamically using Chrome's developer
-   tools.
+It's open-source, and suggestions are welcome. One known limitation is that the
+program does not handle attachments. If your notes contain images, PDF files, or
+other additional data, they will not be fetched. Let me know if you use the
+program and would like to have this feature.
 
-5. Time to convert the document to PDF! Chrome's print-to-PDF and the Quartz
-   renderer did a good job. They even preserved hyperlinks, so that readers can
-   open referenced websites directly from their PDF reader.
+## Where To Go From Here
 
-6. The last missing point is PDF metadata. It would be nice if the author and
-   subject of the document were set correctly. Enter [PDFTK][pdftk], which
-   performs a final pass over the PDF file to update these fields. 
+Once you have your notes as a set of local files, [Pandoc][pandoc] is a
+fantastic tool to convert them to the format of your choice. It generates very
+readable output (e.g., in the Markdown format) from a variety of inputs
+(including HTML and Word documents).
 
-Here's [the resulting CV][cv]. What do you think about it? Feedback is very
-welcome. Internships too... please refer to my CV if you're interested :)
+## Conclusion
 
-I also made the [source code of the CV][cv_source] publicly available. If you'd
-like to see the CSS styles or Pandoc command line options, this is the place to
-go. I hereby publish it under the Creative Commons Attribution-ShareAlike 3.0
-license; share, tweak, use, and enjoy!
+All these cloud services sometimes make you wonder: "Am I loosing control over
+my data?" I guess we do, indeed. But sometimes, there is an API that allows you
+to access your data in a programmatic way, and re-gain some of the control. If
+you're a user, looking for such APIs and knowing how to use them can be very
+helpful. If you're a developer, remember to build a public API for your
+services; communities will form around them, people will start building plugins,
+and your service won't be an isolated cloud, but part of the web. 
 
-[md]: http://commonmark.org/
-[libreoffice]: https://www.libreoffice.org/
+
+[cloudhq]: https://www.cloudhq.net/
+[onenote_export]: https://github.com/Sjlver/onenote-export
 [pandoc]: http://johnmacfarlane.net/pandoc/
-[vim]: http://www.vim.org/
-[normalize]: https://necolas.github.io/normalize.css/
-[chrome]: https://www.google.com/chrome/browser/
-[pdftk]: https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/
-[cv]: /assets/documents/cv_jonas_wagner.pdf
-[cv_source]: https://github.com/Sjlver/cv
