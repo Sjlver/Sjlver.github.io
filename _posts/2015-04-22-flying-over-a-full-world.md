@@ -23,8 +23,10 @@ Circular crop fields in Montana (image from Google maps).
 </figure>
 
 To me, it's a frightening thought. But it seems inescapable. Whenever there was
-a patch of flat land, a road or field was not far away. It reminded me of how I
-started a blog eight years ago:
+a patch of flat land, a road or field was not far away. I could see from above
+how we're using up the surface. And, apparently, [the water under the
+surface](http://www.nytimes.com/2013/05/20/us/high-plains-aquifer-dwindles-hurting-farmers.html).
+It reminded me of how I started a blog eight years ago:
 
 > Ich habe nicht gewusst, dass es so viele verschiedene Grün und Braun gibt.
 > Jetzt, da ich über Indien fliege, ist es unmöglich, sie alle zu benennen. Ich
