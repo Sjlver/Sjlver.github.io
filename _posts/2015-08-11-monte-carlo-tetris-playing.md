@@ -2,7 +2,7 @@
 layout:     post
 title:      "Monte Carlo Tetris Playing"
 date:       2015-08-11 22:30:00
-categories: GxvCPWr2M6TS
+categories: gxvcpwr2m6ts
 unpublished: true
 ---
 
