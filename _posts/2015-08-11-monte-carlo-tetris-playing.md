@@ -13,7 +13,7 @@ Search. The approach is deceptively simple, but fascinating...
 
 See for yourself in this screencast:
 
-<script type="text/javascript" src="https://asciinema.org/a/24866.js" id="asciicast-24866" async>
+<script type="text/javascript" src="https://asciinema.org/a/24875.js" id="asciicast-24875" async>
 </script>
 
 This program was my team's entry to the [International Contest in Functional
