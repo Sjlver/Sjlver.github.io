@@ -2,14 +2,14 @@
 layout:     post
 title:      "Monte Carlo Tetris Playing"
 date:       2015-08-11 22:30:00
-categories: gxvcpwr2m6ts
-unpublished: true
+categories: technology
 ---
 
-Programming is wonderful! Literally *full of wonders*. Surprising because you're
-never quite sure what your code will do. Last weekend, I wrote parts of an AI
-for a Tetris-like game. It is based on an algorithm called Monte Carlo Tree
-Search. The approach is deceptively simple, but fascinating...
+Programming is wonderful! Literally *full of wonders*. As you write code, it
+becomes complex, unpredictable, and surprising and you, the author, are never
+quite sure what it will do. Last weekend, I wrote parts of an AI for a
+Tetris-like game. It is based on an algorithm called Monte Carlo Tree Search.
+The approach is deceptively simple, but fascinating...
 
 See for yourself in this screencast:
 
@@ -26,7 +26,7 @@ for lines cleared. There were additional challenges in the competition, but this
 blog post focuses on our Tetris AI.
 
 How do computers play Tetris? Our program does it very differently than a human
-being would. Human players use various heuristics, like keeping the board low or
+being would. Human players use various heuristics, like keeping the stacks low or
 avoiding holes. In contrast, the AI is based almost entirely on simulation and
 on a clever strategy called [*Monte Carlo Tree Search*][mcts]. Here is how it
 works:
@@ -111,20 +111,20 @@ This was very counter-intuitive to me, but here is an example:
 
                      columns used         width
     . . . ● . . .               4
-     . ● ● . . .             2, 3         4 - 2 + 1 = 3
+     . ● ● . . .             2, 3         2 to 4 = 3
     . . . ● . . .               4
      . . . . ● .                5
-    . . . ● ● . .            4, 5         5 - 4 + 1 = 2
+    . . . ● ● . .            4, 5         4 to 5 = 2
      . . . . ● .                5
 
 This issue caused us to spawn the block in the wrong position. Because of this,
 our solution received zero points whenever the game contained blocks of that
 particular shape... until we found and fixed the bug.
 
-If all goes well, [our code will be open-source][int4t_code] soon. If you like
-it or have comments, let me know!
+[Our code is now open-source.][int4t_code] If you like it or have comments, let
+me know!
 
 [icfp]: http://icfpcontest.org/
 [mcts]: https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
 [hexgrids]: http://www.redblobgames.com/grids/hexagons/
-[int4t_code]: https://bitbucket.org/jaredneil/icfp-2015
+[int4t_code]: https://github.com/Sjlver/icfp-2015
