@@ -50,7 +50,8 @@ indeed lots of really smart people here.
 
 In the last four months, I've worked on a system to protect computer programs.
 We named it *BinKungfu* because it analyzes and modifies computer binaries, to
-protect them from vulnerabilities.
+protect them from vulnerabilities. It does binary self-defense against hackers
+:)
 
 *BinKungfu* is part of an even bigger system that can protect and attack
 computer programs, completely automatically. On August 4, it will battle against
