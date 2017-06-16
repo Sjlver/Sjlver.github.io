@@ -20,12 +20,12 @@ permalink: /about/
 I am Jonas Wagner, a computer science researcher, traveller, avid book reader,
 guitar player, boyscout...
 
-In my research, I build tools that help developers create better software. I'm
-researching an exciting new technique that we call *elastic instrumentation*. It
-allows developers to strengthen their programs using instrumentation while
-keeping control over the runtime overhead. Previously, I have worked on symbolic
-execution, a technique that analyzes programs on multiple execution paths and
-automatically finds bugs.
+In my [research](/research/), I build tools that help developers create better
+software. I'm researching an exciting new technique that we call *elastic
+instrumentation*. It allows developers to strengthen their programs using
+instrumentation while keeping control over the runtime overhead. Previously, I
+have worked on symbolic execution, a technique that analyzes programs on
+multiple execution paths and automatically finds bugs.
 
 It's important to me that research has a strong connection to the real world.
 This is why I published [the ASAP technique][asap] as open-source code. For more
