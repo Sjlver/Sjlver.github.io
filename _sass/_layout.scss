@@ -208,8 +208,6 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
-
     h2 {
         font-size: 32px;
 
@@ -232,5 +230,19 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+.post-navigation {
+    margin-bottom: $spacing-unit;
+
+    a {
+        display: block;
+        width: 50%;
+        float: left;
+    }
+
+    .next {
+        text-align: right;
     }
 }
