@@ -66,10 +66,10 @@ like to see the CSS styles or Pandoc command line options, this is the place to
 go. I hereby publish it under the Creative Commons Attribution-ShareAlike 3.0
 license; share, tweak, use, and enjoy!
 
-[md]: http://commonmark.org/
+[md]: https://commonmark.org/
 [libreoffice]: https://www.libreoffice.org/
-[pandoc]: http://johnmacfarlane.net/pandoc/
-[vim]: http://www.vim.org/
+[pandoc]: https://johnmacfarlane.net/pandoc/
+[vim]: https://www.vim.org/
 [normalize]: https://necolas.github.io/normalize.css/
 [chrome]: https://www.google.com/chrome/browser/
 [pdftk]: https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/

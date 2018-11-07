@@ -174,4 +174,4 @@ to me for my birthday. You could not have made a better choice!
 [![Selfife with Biolite](http://static.purpureus.net/pictures/biolite_small/20selfie_with_biolite.jpg)](http://static.purpureus.net/pictures/biolite/20selfie_with_biolite.jpg)
 </figure>
 
-[biolite]: http://www.bioliteenergy.com/products/biolite-campstove
+[biolite]: https://www.bioliteenergy.com/products/biolite-campstove

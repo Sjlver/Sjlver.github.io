@@ -12,7 +12,7 @@ increase the reliability of software. This [30-minute talk][ept_talk] gives an
 overview of Elastic Program Transformations and their applications.
 
 [Publications](https://scholar.google.ch/citations?user=NnX4nLIAAAAJ) |
-[CV](http://blog.purpureus.net/assets/documents/cv_jonas_wagner.pdf) |
+[CV](https://blog.purpureus.net/assets/documents/cv_jonas_wagner.pdf) |
 [three-minute video overview of my research](https://www.youtube.com/watch?v=h5z7BBbvPK0)
 
 Research Interests
@@ -58,8 +58,8 @@ My master thesis on measuring the performance of VPN tunnels was developed at
 MadeinLocal.com and [Bucher &amp; Suter AG](https://www.bucher-suter.com/), and
 spent an exchange year at NTU in Singapore.
 
-[dslab]: http://dslab.epfl.ch/
+[dslab]: https://dslab.epfl.ch/
 [ept_talk]: https://www.youtube.com/watch?v=G_sYs5evS-g
-[asap]: http://dslab.epfl.ch/proj/asap/
-[overify]: http://infoscience.epfl.ch/record/186012/
-[dslab]: http://dslab.epfl.ch/
+[asap]: https://dslab.epfl.ch/proj/asap/
+[overify]: https://infoscience.epfl.ch/record/186012/
+[dslab]: https://dslab.epfl.ch/

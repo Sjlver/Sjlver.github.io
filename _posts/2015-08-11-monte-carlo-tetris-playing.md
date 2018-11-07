@@ -124,7 +124,7 @@ particular shape... until we found and fixed the bug.
 [Our code is now open-source.][int4t_code] If you like it or have comments, let
 me know!
 
-[icfp]: http://icfpcontest.org/
+[icfp]: https://icfpcontest.org/
 [mcts]: https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
-[hexgrids]: http://www.redblobgames.com/grids/hexagons/
+[hexgrids]: https://www.redblobgames.com/grids/hexagons/
 [int4t_code]: https://github.com/Sjlver/icfp-2015

@@ -36,6 +36,6 @@ While traveling, I enjoy hiking and marveling at all the beauty in nature, the
 night sky, the mountains... It was [a trip to the Rocky
 Mountains][a_travelers_diary] which caused me to start this blog back in 2014.
 
-[asap]: http://dslab.epfl.ch/proj/asap/
+[asap]: https://dslab.epfl.ch/proj/asap/
 [cv]: /assets/documents/cv_jonas_wagner.pdf
 [a_travelers_diary]: /travel/2014/10/12/a-travellers-diary-part-three.html

@@ -74,4 +74,4 @@ and your service won't be an isolated cloud, but part of the web.
 
 [cloudhq]: https://www.cloudhq.net/
 [onenote_export]: https://github.com/Sjlver/onenote-export
-[pandoc]: http://johnmacfarlane.net/pandoc/
+[pandoc]: https://johnmacfarlane.net/pandoc/

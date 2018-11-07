@@ -26,7 +26,7 @@ like.
 <figure style="text-align: center; width: 100%;">
 ![Jyn and Cassian on the beach at Scarif -- Rogue One ending](/assets/pictures/jyn_cassian_beach.gif)
 <figcaption>
-Jyn and Cassian on the beach at Scarif -- Rogue One ending ([source](http://thefarce.tumblr.com/post/154556060513/quality-content-even-in-potato-quality))
+Jyn and Cassian on the beach at Scarif -- Rogue One ending ([source](https://thefarce.tumblr.com/post/154556060513/quality-content-even-in-potato-quality))
 </figcaption>
 </figure>
 
@@ -50,4 +50,4 @@ There's more to life than (star) wars... let's live!
 
 ---
 
-P.S.: [the resolutions of Jonathan Edwards](http://www.desiringgod.org/articles/the-resolutions-of-jonathan-edwards)
+P.S.: [the resolutions of Jonathan Edwards](https://www.desiringgod.org/articles/the-resolutions-of-jonathan-edwards)

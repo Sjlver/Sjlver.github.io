@@ -66,4 +66,4 @@ Schlafsack und Hängematte gchraxlet.
 
 Itz isch Morge vomene nöie Tag, es nöis Aabetür faht a...
 
-<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="740" height="555" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F109198386381397711724%2Falbumid%2F6159727396510828849%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCJ6h7IGdwayddg%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="740" height="555" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F109198386381397711724%2Falbumid%2F6159727396510828849%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCJ6h7IGdwayddg%26hl%3Den_US" pluginspage="https://www.macromedia.com/go/getflashplayer" />

@@ -34,9 +34,9 @@ Based on the Intel paper [and additional hints from
 StackOverflow][stackoverflow], I've put together a small experiment. You can
 download it here, together with all the results: [timing_bench.tar.bz2][tb]
 
-[intel]: http://edc.intel.com/Link.aspx?id=3954
-[regehr]: http://blog.regehr.org/archives/330
-[stackoverflow]: http://stackoverflow.com/a/12634857/987792
+[intel]: https://edc.intel.com/Link.aspx?id=3954
+[regehr]: https://blog.regehr.org/archives/330
+[stackoverflow]: https://stackoverflow.com/a/12634857/987792
 [tb]: /assets/documents/timing_bench.tar.bz2
 
 The benchmark measures the number of cycles taken to execute the following loop
@@ -161,5 +161,5 @@ especially if reliability and ease of use are a concern. On Windows, consider
 using [QueryPerformanceCounter][QPC]. On Unix systems, [PAPI][papi] provides an
 interface to the TSC and many other hardware counters.
 
-[QPC]: http://msdn.microsoft.com/en-us/library/windows/desktop/dn553408%28v=vs.85%29.aspx
-[papi]: http://icl.cs.utk.edu/papi/
+[QPC]: https://msdn.microsoft.com/en-us/library/windows/desktop/dn553408%28v=vs.85%29.aspx
+[papi]: https://icl.cs.utk.edu/papi/

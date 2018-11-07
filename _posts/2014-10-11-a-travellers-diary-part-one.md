@@ -47,7 +47,7 @@ everything is ready for service.
 <figure>
 ![Trinity United Methodist Church -- Organ and interior](/assets/pictures/trinity_united_methodist_church_interior.jpg)
 <figcaption>
-The organ at Trinity church -- picture from [their website](http://www.trinityumc.org/who-we-are/our-history)
+The organ at Trinity church -- picture from [their website](https://www.trinityumc.org/who-we-are/our-history)
 </figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ swimming pool and showers. Perfect for shaking off jetlag.
 <figure>
 ![Washington park, Denver](/assets/pictures/washington_park_denver.jpg)
 <figcaption>
-"<a href="https://commons.wikimedia.org/wiki/File:Washington_Park_Denver.JPG#mediaviewer/File:Washington_Park_Denver.JPG">Washington Park Denver</a>" by <a href="//commons.wikimedia.org/wiki/User:Denverjeffrey" title="User:Denverjeffrey">Jeffrey Beall</a> - <span class="int-own-work">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
+"<a href="https://commons.wikimedia.org/wiki/File:Washington_Park_Denver.JPG#mediaviewer/File:Washington_Park_Denver.JPG">Washington Park Denver</a>" by <a href="//commons.wikimedia.org/wiki/User:Denverjeffrey" title="User:Denverjeffrey">Jeffrey Beall</a> - <span class="int-own-work">Own work</span>. Licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
 </figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ perfect. I leave the place with a copy of the hunger games as well as volume
 two and three of Ian Doescher's excellent *Shakespearean Star Wars*, and take a
 bus to Broomfield.
 
-[melbourne]: http://www.denverhostel.com/
-[tattered]: http://www.tatteredcover.com/
-[trinityumc]: http://www.trinityumc.org/
+[melbourne]: https://www.denverhostel.com/
+[tattered]: https://www.tatteredcover.com/
+[trinityumc]: https://www.trinityumc.org/
 [washpark]: https://en.wikipedia.org/wiki/Washington_Park,_Denver
