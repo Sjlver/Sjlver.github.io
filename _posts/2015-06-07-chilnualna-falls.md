@@ -66,4 +66,25 @@ Schlafsack und Hängematte gchraxlet.
 
 Itz isch Morge vomene nöie Tag, es nöis Aabetür faht a...
 
-<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="740" height="555" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F109198386381397711724%2Falbumid%2F6159727396510828849%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCJ6h7IGdwayddg%26hl%3Den_US" pluginspage="https://www.macromedia.com/go/getflashplayer" />
+<script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
+<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/fw6ANGYaU8ir4x86A"
+  data-title="Chilnualna Falls (Blog)"
+  data-descrition="Chilnualna Falls photos · Album by Jonas Wagner">
+  <img data-src="https://lh3.googleusercontent.com/wQG3PZ4tdrJzN5qdGvs2cyE8nGVeplTrxL0qUgaYFjseWmlihJa73oqegYtKDZ_FsLiPMKI81ED84dg3yk7KBQpOZggRp_IMne5pujnUsEPSad-4Xwm8JQQeXtPfoqUsULkmewZ4yTw=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/uQCZGflcGwFeaWSfchLij5tJSJUMpueRIyTrTsOBhn6fi9uONixPQycygfOJEpLoqRHQxM4GyuL1LyQeU1dCuCLTxx9F_HZXfgQnRpereggg72dl-HrnAd-lQDcR3luJuACYmRXCZYU=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/cNtROnb_a-OKYcdF1Wj_UThprJDaIJTYRv3n4RoWAabX-r2AAIhtP5cZgxMh6e6P8aV4Lx4lMUBiueNC78kjXiejgdglrTxtpivw54X1Veh9owPkENZdRzQdRWc6tgx9WFzzjb__76s=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/0_hvY64fWpNIdztqnlBwXc87Ej0KX7_863nXzDppqCvYBqo4FRp3kd6MXRusdXBeygv3Gn9G7GNXGCgrsTs_CXUuDEGV7PVezCLQpO0d4orrkc1mRa9PCtZ08qpilA48VRwKPAtd5hs=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/xnjOwPeUEIPpWReNR2D9NsfexkL_I-92nHiN5hfdf19RDOcU0Lh1l0AUzIOmX_wfaZeMxfbWlTBzKaiZ9SNUMpRxAEwxFS4gD81buFtPeQM8IGPWVGzXSrBUP2xU5Ivdof4OKZfLKEg=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/sSAj9TsjARJfOI35G4y3sheSdZEy4RPJaQZKtxK55Oo8TDYk-v7rbpG36D-5vxpIkHlKF1uGVtmx7a6RMX1fmuB-1PRavg8tzsD9j07SThcB8DafcX2uASt0rONccgtx2cGnyse-q5o=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/N63PGWaVkAb-zMlw7AnSEfb1USCzMDumZ-YvSrD_dm2U-cHv9YUHNCzqdMXe5h67WadE8ZG5GR20RiCcJ3e9vBmFhH8Q_IDq1yC3yd-JXwicaT8KRYTNeFB5NvKwVCmtd0LTuK3LJqQ=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/Jjevq03NUrKXEXjM6ftCWoItgYX9fFgXNxtSvyyg4i1bUHriek-ROAjYF5T19fPH7D2TXK-Ulv_wakPksmfGZvjf9JR-HJ5WSR_B8YP6TTll7y2pYIHXU5Ka2s79GRcCMhaCTJTGyVk=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/uxrXnxw-CreE4ESCCuVX-bpgPgqPJJ_T7DLceSYW_06B7G7EnTHH8QUtkTJtlp4LETMC0rqMm9Nx40nSrEQvGQZxVPpVI5xs_Ra__Dn--IBUUzWIJTKXQT0_3L1kZNClf6ZUPOpbKvk=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/kHtRu8R9fwfNU6JHAr_2mA0bRT9CL_IUjYp-pmF5ZsDn_wRMu_b2ng_Z7LCIYg_PfhWs9P5hhgTN5tauzlE9m_Wrn_f07Cmy4ShaIScN5xkN7oPJXWyShyLAJcun5b25zp_hd0n5iqw=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/1RTv30-lax_WQ-XoOmoR7Zx7YMHgkIVHNaLgqOAp0Hs0aJUp5xgh9MNsV_5zgFfyHgOyPzlKg0bP-7dIAWL3tuP-rakx5OQbIkJhftfFfdA78uQw_Tx6DEZnlI5-KDOpYDAbssqI4K0=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/10GrSKiHzXHq5xqGOFJE3ZVpnaEkmDQ-bAQGOobFpSJVn3uXekhsVKr83SXirT1cfyLCoORi3V1Ig1XZYGbpfyDE1716rGGEFJeecTA03Fi1IFwuqYtB2SdB5FU_RzzHQJZHHCKF26M=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/emYOdZB7f8kQTcJBNNyA3TdPT6W51crGW4HCXJnriB4HTX-xbQ_UBpfFbnDBjpbP-SeDB6pSivu_2MMFPGcIiRG2y03SBE7MIW61rE86Pdp_NfZWX-bHFA7UzUUZDBBpYjUbGV_7hoU=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/rTnZYcOsZyTLEojq2sEJNjExZznctLLO6X6KI8HGhLe5f8cv01r8baI3HNLjsQZn15aOwQwsYqNQ7QCwszbkJxkCvSyW9LMRcBVkvyBMVAWKO4WdB0gfbGJAyRXWBfjYnu59ATRrXSI=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/8zih5Pmd5rf5VcKUi-maMnEA2fqPfTOLkSFDv84TIEhrXco-QtuXOZoaMIwxQ8qobpTAng8GVAIeWe2T1Q8w9tSoak8peJjcGcJ1VYN6SHWmY3DxHSY-F-isNEHMgu98YJ4JjKwU9XU=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/zMZ4594uoCzVRxQbKLXvfk_NhfLCuf9Nko58OY88-Srfs7bua1T6a5HHHdRxUL6r7LLoImuX0KnWZC97-Zm-fVUbtfR68oQ3foeHsxf87wzc-WPfMPRxVujW44wZp-UUwWlLp9Zhlt4=w1920-h1080" src="" alt="" />
+</div>

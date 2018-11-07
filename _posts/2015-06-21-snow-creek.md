@@ -64,4 +64,26 @@ Schlafplatz gsuecht z'ha.
 
 Auso... Füür mache fürs Zmorge!
 
-<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="740" height="555" flashvars="host=picasaweb.google.com&captions=1&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F109198386381397711724%2Falbumid%2F6165594804769588081%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCKfg8MXZy6-cdQ%26hl%3Den_US" pluginspage="https://www.macromedia.com/go/getflashplayer" />
+<script src="https://www.publicalbum.org/js/pa-embed-player.min.js" async></script>
+<div class="pa-embed-player" style="width:100%; height:555px; display:none;"
+  data-link="https://photos.app.goo.gl/j1iGEsynSUCAkthg6"
+  data-title="Snow Creek (Blog)"
+  data-descrition="Snow Creek Photos · Album by Jonas Wagner">
+  <img data-src="https://lh3.googleusercontent.com/FxZgq4YGPcvLSjdGP0K2WimWQ5mielIvzNHIQhPVTpnDe7Gi2FIJd5bwlcoKFcnOBMJtjBOdLUSnCqP8Bn8vkBDJu60X1Z_leVTU96oJ6eCu9mlzBwTgcrI5aLaQZJ-eHsLkQn3McJg=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/GZ4xqCdyfnlFAsPBT2zIgavslOxOou7ZTsmZimgwv5jy2RXUTYwrcuh-wQtUbNRP3mXWt1rrL8acSjQ51UjizHectaQFdGp9YVC7bZwO1quhlsO0ZZ_e_hQ0BXqaZ6WnzqWTOM10mA4=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/ny81qah404zxUJfU3MlEuotrq_HqZaDFydVBWKzKMQe_nLqi_4y2VWi3CNII39dmzWqRq5GIpsTui29DrRdfMe4DOIUkouQAFRs7-udrPx8LLoSwanv8k-8mPe5RpZmViJYsq31iLuU=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/MOchbyNgi8g-Ayp0S02muwIfnExAgwL5Y-76W4ulWoVTB98AvmFlAer4kEXeaVGynXognbnJe1PSQ3zkYPAYkhSpjjyfJwWEyGCeUAtBDqWTmqx8qmy0wlZs8LJ_3vPagBWVyNjbSKc=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/_DRY6pv7y_wb9g1Yv45e9OKHRyq0R4akx95khqmKkhjbOYwSn6N2NcYpv8r_gBl3_-iRDz7qpeqZXFrnCO7YYrxbWD1KsFDOyhXqziaIhK3y3wA4zYHMf_-e-R2T5MLJLDlHtagTI88=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/3ciOre96yc-bTngai2nUn61srPTVGWYZlALbPp02FCYFeRY5gVZO-Wp6lQAyDWqkSYnidnoKLktrhLbKDpuXsYkQDDbGS5LkNFIfV9GJy0ixagbpkRSPclvrG3iMdJIqXcD6w5onAHI=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/gK1QM_8Bf50ywDu0lEJBtP-wEvGTvHrhY6aHHx67qHev2rwr23Q5bIe7kiXY4sTZ4_OrB2GIcYUZM5meFh93YfBLOU7UIU8Q8eV0ySbfM6CwCmyVBuJd4g-P1YSydjIohpPbPoGcrxE=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/mzuJBhMqfhN6u4f2U7Kb0p-wIGSkjZzksqit0UFZlF2BtnLKXbMuonytS9OPgOyG1bBgo_FyG6RpQIpdTL5uHo5DJ1KBfVpseOdMEpTad5kn1KfSyYBdoFsPMMvomkKAEYsDBvmNB3c=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/wwQUZIhvNoxs1Gon-LS3XJ1aqFerDdLvwT9FNobqD8yGGjmGJwZQLSR5IfNwaFN_XXcj5WHz8FunhCZOfj0KrPe9fFo8deN9NvaKKiugop4Ojz3g8ppIk3ISs4C-3QBIeqAp7_Gum4E=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/riMPKukmheLmRzlMfi2bIvz0Tt-Cc20s9u3PFsjFNWGnEqQdupdBUgSq9u6AvRMlpmAXiAQNlf828-mmL0hquGlL6fAaB1XIH3k3LT8L51aO7_2YEM00TbX2YCd9j0mRaGjalSfbZvU=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/ExD3Is78xHqlBHU9fZk_sF2KchFNqi9TvVhiYGT9aR_jJQTXvCvmHWM3bcGX1pkRW4c9pjWUc6FQXqYKq8-edFBEgfacOYLnEddXx1OKAgH1SjdWy4gplcuwqAow11E8XDMEJIR_dyI=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/0eWjALu1n3XBVwPy-VTvJaEl_hegDOsjfMzvzyFoCQ8PQiTveVX_nUGWn9kHgo0dIqWOOr04Akg_xUtce1Mr28R-dRTw3jNOric_RxkPrVeBP85DkisOlkFsFYcLMXauCDYWTg_H1TM=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/ChXqQgVuv1JDHbDYchM6wsGJQkW-C16nXfDw20pWN3-Kd6e1mGBWQ1j29d-xys_GUCAkpNQiE_Y0Rvb9kWcscc5fPu9jH_T2-VT7QsLvx2bxtB11f6stH8y82BRjyh62zy52U2f4u18=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/-yUX53lrGAQYV3fv07JTAfBymJatU5DPV-UHeyl1a0Zsuj9sw61uahsifqqvA4ybufveM-mSyeRTOq0KouqZR73ZlWnRFR2Qx8em2iW1hfb_5Ug5I1w9-gkKbyarHzmxD6cDcq2nb3g=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/azaeUnJbIZGTXCOqpOncbi5_K3gXUretxOcvrzmWlthAeAd2vmc9Vx6tW5DU4fmnU3dyRzw7UQHteGoifZE0JHqeUcJV38BPy7SUPPVGXaJEIw8Co6w-3mglzAPLZ0jcqo3FvX50b5g=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/3hVWoI8FfokLz5MxoFrIphLMnvKagy7VL181q8W2KNiL9e7WsP1uvOvRD330QvCQTV7pRAzkFajbSvk0wilvtBklUrK4ih483VF91cqsprYZpxLg49rNPez8X3HpoBnEGr2wulEnoUo=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/X0l-VKulgreFMydrxRzEx9QyUQl3ifBJqBkeexsAZQgJSKLaMgbGnCwpVNIw9N_S0lwS3BYWAxYiMJqbcYGqP4RsgCplozbmFt5gMXEQLhpJtVAkgnJHjJr96hgbPbIWV7-EIw_EQe4=w1920-h1080" src="" alt="" />
+</div>
