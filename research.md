@@ -60,6 +60,5 @@ spent an exchange year at NTU in Singapore.
 
 [dslab]: https://dslab.epfl.ch/
 [ept_talk]: https://www.youtube.com/watch?v=G_sYs5evS-g
-[asap]: https://dslab.epfl.ch/proj/asap/
+[asap]: https://dslab.epfl.ch/research/asap/
 [overify]: https://infoscience.epfl.ch/record/186012/
-[dslab]: https://dslab.epfl.ch/
