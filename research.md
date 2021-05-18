@@ -7,7 +7,7 @@ permalink: /research/
 I completed my PhD at the [Dependable Systems Lab][dslab], under the supervision
 of George Candea.
 
-My work focuses on Elastic Program Transformations: flexible techniques to
+My work focused on *Elastic Program Transformations:* flexible techniques to
 increase the reliability of software. This [30-minute talk][ept_talk] gives an
 overview of Elastic Program Transformations and their applications.
 
